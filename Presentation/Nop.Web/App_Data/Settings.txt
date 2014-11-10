@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=RICARDOBERNEL\SQL2012EXPRESS;Initial Catalog=audaco;Integrated Security=True;Persist Security Info=False
